@@ -13,3 +13,7 @@ crash.log
 *.png
 *.html
 linkedin-post.md
+*.tfstate
+*.tfstate.*
+.terraform/
+*.pem
